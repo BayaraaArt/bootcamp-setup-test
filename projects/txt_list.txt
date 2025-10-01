@@ -1,0 +1,12 @@
+./archives/file2.txt
+./archives/file3.txt
+./archives/important.txt
+./archives/all_info.txt
+./archives/exercie.txt
+./backup/combined.txt
+./backup/report.txt
+./school/teachers/teacher1.txt
+./school/students/students1.txt
+./school/students/students2.txt
+./school/documents/rules.txt
+./txt_list.txt
