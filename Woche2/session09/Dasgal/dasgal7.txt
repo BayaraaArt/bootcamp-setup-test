@@ -1,0 +1,6 @@
+Start
+print "Тойргийн радиус нь хэд вэ?"
+set r = argument
+set p = 3.14
+set total_cost = p * argument * argument 
+print total cost

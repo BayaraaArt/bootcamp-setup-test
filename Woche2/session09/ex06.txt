@@ -1,0 +1,11 @@
+Start 
+input argument1 
+input argument2
+set sum=0
+set avg=0
+for each argument in argument1, argument2
+	set sum=sum+argument
+	endfor
+	set avg = sum / 2
+	display avg			
+End

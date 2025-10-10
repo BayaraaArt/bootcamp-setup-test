@@ -1,0 +1,7 @@
+Start 
+print "Таны овог хэн бэ?"
+get name
+print "Таны өөрийн нэр хэн бэ?"
+getç familienname
+print "Тавтай морил, [familienname][name]!"
+end

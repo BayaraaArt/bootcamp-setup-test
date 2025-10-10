@@ -1,0 +1,5 @@
+Start
+ get name 
+ print "Сайн уу. name"
+end
+ 

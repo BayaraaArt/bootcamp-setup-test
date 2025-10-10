@@ -1,0 +1,6 @@
+Start 
+set argument1 
+set argument2
+set total_price = argument1 + argument2
+print total_price
+End 

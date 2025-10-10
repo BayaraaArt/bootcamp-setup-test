@@ -1,0 +1,6 @@
+Start
+print "Таны дуртай хот юу вэ?"
+get favorite_city
+print "Таны дараагийн аялал [favorite_city] руу байх болно!"
+End
+

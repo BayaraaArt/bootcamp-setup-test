@@ -1,0 +1,9 @@
+Start
+  display "Give me your point"
+  input score
+  if score > 50 then
+     display "Success"
+  else
+     display "failed"
+  endif
+end

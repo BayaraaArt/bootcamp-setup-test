@@ -1,0 +1,5 @@
+Start 
+  print "what ist your name?"
+  ger username
+  print "Hello, ", user_name
+END

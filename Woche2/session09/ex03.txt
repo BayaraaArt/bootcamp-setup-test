@@ -1,0 +1,7 @@
+Start
+  input num1
+  input num2 
+  set result = num1 * num2 + 10 
+  print "Calculation", result
+End 
+

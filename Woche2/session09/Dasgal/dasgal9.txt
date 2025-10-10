@@ -1,0 +1,5 @@
+Start
+print "Та нэг уртын хэмжигдэхүүн өгнө үү(метрээр)"
+get meter
+set total = meter * 100 
+end

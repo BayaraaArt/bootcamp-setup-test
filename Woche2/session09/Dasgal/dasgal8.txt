@@ -1,0 +1,7 @@
+Start 
+print "Та нэг амьтны нэр оруулна уу"
+get animal
+print "Та нэг үйл үг өгнө үү"
+get verb
+print "Нэгэн [animan] [verb] хйиж байв."
+end
